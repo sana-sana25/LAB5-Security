@@ -1,4 +1,4 @@
-# 📝 📄 RAPPORT LAB5 — Analyse APK Android (UnCrackable Level 2)
+# 📝 RAPPORT LAB5 — Analyse APK Android (UnCrackable Level 2)
 
 ## 🔷 1. Introduction
 
